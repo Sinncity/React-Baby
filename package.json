@@ -1,0 +1,19 @@
+{
+  "name": "tbaby",
+  "version": "1.0.0",
+  "description": "This is a intro to node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sinncity/React-Baby.git"
+  },
+  "author": "Terrance Parker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sinncity/React-Baby/issues"
+  },
+  "homepage": "https://github.com/Sinncity/React-Baby#readme"
+}
