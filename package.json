@@ -4,7 +4,8 @@
   "description": "This is a intro to node project",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Lets go baby": "webpack src/index.js dist/bundle.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Sinncity/React-Baby/issues"
   },
-  "homepage": "https://github.com/Sinncity/React-Baby#readme"
+  "homepage": "https://github.com/Sinncity/React-Baby#readme",
+  "dependencies": {
+    "random-words": "^1.1.2",
+    "superheroes": "^3.0.0",
+    "webpack": "^5.72.0"
+  }
 }
